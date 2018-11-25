@@ -10,6 +10,10 @@ public class VariableAndDatatype {
 System.out.println("I am printing string "+ firstnum++);
 System.out.println("I am printing string "+ ++firstnum);
 
+int num;
+num=4;
+
+
 	}
 
 }
